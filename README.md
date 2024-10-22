@@ -1,4 +1,4 @@
-### HI EVERYONE! WELCOME TO MY PAGE! 👋👋👋
+### HI EVERYONE! WELCOME TO MY PAGE! 👋
 My name's Phuc Nguyen. I'm an international student in Seneca Polytechnic and my major's Computer Programming & Analysis. I'm interested in C, C++, JavaScript, and CSS. <br>
 ## 📥 Contact me in here:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-duong-truong-phuc-741456221) 
