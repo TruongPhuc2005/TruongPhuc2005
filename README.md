@@ -16,6 +16,9 @@ My name's Phuc Nguyen. I'm an international student in Seneca Polytechnic and my
 <a href="https://github.com/TruongPhuc2005/Banh-Mi-website">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=truongphuc2005&repo=Banh-Mi-website&theme=merko" />
 </a>
+<a href="https://truongphuc2005.github.io/Weather-App/index.html">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=truongphuc2005&repo=Weather-App&theme=radical" />
+</a>  
 <a href="https://truongphuc2005.github.io/StupidCalculator">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=truongphuc2005&repo=StupidCalculator&theme=merko" />
 </a>
