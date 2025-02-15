@@ -8,7 +8,7 @@ My name's Phuc Nguyen. I'm an international student in Seneca Polytechnic and my
 
 
 <a href="https://truongphuc2005.github.io/RapVeinStyle">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=truongphuc2005&repo=RapVein&theme=radical" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=truongphuc2005&repo=RapVeinStyle&theme=radical" />
 </a>   
 <a href="https://truongphuc2005.github.io/my-Portfolio/index.html">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=truongphuc2005&repo=my-Portfolio&theme=radical" />
